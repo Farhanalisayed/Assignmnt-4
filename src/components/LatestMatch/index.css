@@ -1,0 +1,31 @@
+/* Write your CSS here */
+* {
+  font-family: 'Bree Serif';
+}
+.cont {
+  margin: 10px;
+  background-color: #0f172a;
+  border-radius: 7px;
+  display: flex;
+  justify-content: space-around;
+}
+.competingTeam {
+  color: white;
+  font-size: 22px;
+}
+.competingLogo {
+  height: 60%;
+  width: 25px;
+}
+.date {
+  color: white;
+  font-size: 18px;
+}
+.head {
+  color: white;
+  font-size: 15px;
+}
+.para {
+  color: white;
+  font-size: 12px;
+}

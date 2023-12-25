@@ -1,0 +1,23 @@
+* {
+  font-family: 'Bree Serif';
+}
+li {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+  background-color: #ffffff33;
+  border-radius:7px;
+}
+Link {
+  text-decoration: none;
+}
+.head {
+  color: white;
+  font-size: 15px;
+  margin:5px;
+}
+.logo {
+  height: 20px;
+  width: 18px;
+}
